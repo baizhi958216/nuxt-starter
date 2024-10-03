@@ -26,4 +26,10 @@ export default defineNuxtConfig({
   },
 
   devtools: { enabled: true },
+  modules: [
+    "@nuxtjs/google-fonts",
+    "@nuxtjs/tailwindcss",
+    "@nuxt/icon",
+    "@nuxt/image",
+  ],
 });
