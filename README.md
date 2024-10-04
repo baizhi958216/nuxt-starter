@@ -1,3 +1,5 @@
+# Youtube: [Build A Recipe Application With Nuxt & Tailwind CSS](https://www.youtube.com/watch?v=RAJZOqr3JZU)
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
